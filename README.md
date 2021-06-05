@@ -20,4 +20,4 @@ Now I'm a member of <b>TomorrowDevs</b> community
 ![Git](https://img.shields.io/badge/-Git-fff?&logo=Git)
 ![Markdown](https://img.shields.io/badge/-Markdown-fff?&logo=Markdown&logoColor=grey)
 
-<h2 align="center">  ...still in progress... Stay tuned... 😎 </h2>
+<h2 align="center">  ... in progress... Stay tuned... 😎 </h2>
